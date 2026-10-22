@@ -1,0 +1,6 @@
+{
+  "name": "ShopeeBoost AI - Optimasi Produk & SEO Shopee",
+  "description": "Platform AI otomatis untuk optimasi judul SEO, kata kunci pencarian, deskripsi konversi tinggi, audit listing, dan kalkulator harga Shopee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
